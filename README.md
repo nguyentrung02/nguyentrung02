@@ -21,7 +21,7 @@ I’m a **Software Developer** passionate about building solutions that blend co
 |----------------------|-------------------------|---------------|-----------------------|
 | Python               | React/Node.js           | PostgreSQL    | Data Pipelines        |
 | Java/C#              | TensorFlow/Pandas       | MySQL         | Machine Learning      |
-| JavaScript/TypeScript| Git/Azure DevOps        | DynamoDB      | RESTful APIs          |
+| JavaScript/TypeScript| Git/Azure DevOps        |               | RESTful APIs          |
 | SQL                  | Power Automate/UiPath   |               | Process Automation    |
 
 ---
@@ -65,11 +65,6 @@ I’m a **Software Developer** passionate about building solutions that blend co
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrung02&layout=compact&theme=radical)
-
----
 
 ### 🌟 Let's Connect!
 - 🔗 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/duc-trung-nguyen-591700224/)
