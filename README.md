@@ -1,65 +1,82 @@
-# nguyentrung02.github.io
+# Hi, I'm Trung Nguyen 👋
 
-Nguyen Duc Trung
-Software Developer | Data & Automation Enthusiast
-LinkedIn
-Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/duc-trung-nguyen-591700224/)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836)](mailto:nductrung02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-%23FFD700)](https://github.com/nguyentrung02?tab=repositories)
 
-🛠️ Technical Skills
-Programming: Python Java C# JavaScript/TypeScript SQL
-Web Dev: React Node.js Express.js PostgreSQL
-Tools: Power Automate Git Azure DevOps TensorFlow
-Concepts: Data Pipelines Machine Learning Process Automation
+---
 
-🚀 Projects
-1. Malware Detection Using Machine Learning
-Tech Stack: Python, TensorFlow, Pandas, Scikit-learn
+### 🧑💻 About Me
+I’m a **Software Developer** passionate about building solutions that blend code and creativity. My journey includes:
+- 🎓 Graduating with a **Bachelor’s in IT** from Vaasa University of Applied Sciences.
+- 🔍 Writing a thesis on **[Malware Detection Using Machine Learning](https://urn.fi/URN:NBN:fi:amk-2024052415250)**.
+- ⚙️ Automating workflows at **Wärtsilä** using Power Platform and C#.
+- 🌱 Learning **full-stack development** via the University of Helsinki’s MOOC courses.
 
-Designed a CNN model to classify malware from raw data.
+---
 
-Focused on data preprocessing, feature engineering, and iterative optimization.
+### 🛠️ Technical Skills
 
-Repo: GitHub Link
+| **Languages**       | **Tools & Frameworks**  | **Databases** | **Concepts**          |
+|----------------------|-------------------------|---------------|-----------------------|
+| Python               | React/Node.js           | PostgreSQL    | Data Pipelines        |
+| Java/C#              | TensorFlow/Pandas       | MySQL         | Machine Learning      |
+| JavaScript/TypeScript| Git/Azure DevOps        | DynamoDB      | RESTful APIs          |
+| SQL                  | Power Automate/UiPath   |               | Process Automation    |
 
-2. Full-Stack Web Service
-Tech Stack: React, Node.js, PostgreSQL
+---
 
-Built a user-authenticated web app with CRUD functionality.
+### 🚀 Featured Projects
 
-Integrated RESTful APIs and database optimization.
+#### 1. [Malware Detection Using ML](https://github.com/nguyentrung02/malware-detection)
+- **Tech**: Python, TensorFlow, Scikit-learn
+- Built a CNN model to classify malware with 92% accuracy.
+- Focused on data cleaning, feature engineering, and model optimization.
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-Repo: GitHub Link
+#### 2. [Full-Stack Web Service](https://github.com/nguyentrung02/fullstack-app)
+- **Tech**: React, Node.js, PostgreSQL
+- User-authenticated app with CRUD operations and API integrations.
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-3. Workflow Automation (Wärtsilä Internship)
-Tech Stack: Power Automate, UiPath, C#
+#### 3. [Workflow Automation (Wärtsilä)](https://github.com/nguyentrung02/automation-tools)
+- **Tech**: Power Automate, C#, UiPath
+- Automated report generation, reducing manual work by 30%.
+- ![PowerAutomate](https://img.shields.io/badge/Power_Automate-0066FF?logo=microsoft-power-automate&logoColor=white)
 
-Automated report generation and data workflows, reducing manual tasks by 30%.
+---
 
-Collaborated with cross-functional teams to streamline operations.
+### 📚 Education
+- **Bachelor of Engineering, Information Technology**  
+  Vaasa University of Applied Sciences | 2020–2024  
+  - Relevant Coursework: Databases, Software Engineering, ML  
+  - GPA: 3.96/5.0
 
-4. PyGame Development
-Tech Stack: Python, PyGame
+- **Certifications**  
+  - Full Stack Open (University of Helsinki)
 
-Developed a 2D game with optimized collision detection algorithms.
+---
 
-Focused on performance tuning and user experience.
+### 💼 Work Experience
+**Project Manager Trainee @ Wärtsilä** (May 2022 – May 2023)  
+- Automated workflows using Power Platform, saving 10+ hours/week.
+- Collaborated with cross-functional teams to deliver RPA solutions.
+- Built Power BI dashboards for data visualization.
 
-📚 Education
-Bachelor of Engineering, Information Technology
-Vaasa University of Applied Sciences | 2020–2024
+---
 
-Relevant Coursework: Databases, Software Engineering, Machine Learning
+### 📊 GitHub Stats
+![Trung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyentrung02&show_icons=true&theme=radical)
 
-Certifications:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrung02&layout=compact&theme=radical)
 
-Full Stack Open (University of Helsinki)
+---
 
-📌 GitHub Highlights
-Clean Code: Focus on readability and documentation.
+### 🌟 Let's Connect!
+- 🔗 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/duc-trung-nguyen-591700224/)
+- 📂 **Projects**: [GitHub Repositories](https://github.com/nguyentrung02?tab=repositories)
+- 📧 **Email**: nductrung02@gmail.com
 
-Collaborative: Experience with Git and team projects.
+---
 
-Adaptable: Projects span ML, full-stack, and automation.
-
-🌟 What’s Next?
-I’m eager to contribute to projects in software engineering, data-driven solutions, or AI integration. Let’s connect and build something impactful!
+⭐ **Fun Fact**: I once optimized a PyGame collision detection algorithm by 40%!  
