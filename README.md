@@ -28,18 +28,18 @@ I’m a **Software Developer** passionate about building solutions that blend co
 
 ### 🚀 Featured Projects
 
-#### 1. [Malware Detection Using ML](https://github.com/nguyentrung02/malware-detection)
+#### 1. [Malware Detection Using ML](https://urn.fi/URN:NBN:fi:amk-2024052415250)
 - **Tech**: Python, TensorFlow, Scikit-learn
 - Built a CNN model to classify malware with 92% accuracy.
 - Focused on data cleaning, feature engineering, and model optimization.
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-#### 2. [Full-Stack Web Service](https://github.com/nguyentrung02/fullstack-app)
-- **Tech**: React, Node.js, PostgreSQL
+#### 2. [Full-Stack Web Service](https://github.com/ngoctran-thn/PopupPro)
+- **Tech**: React, Node.js, PostgreSQL, Docker
 - User-authenticated app with CRUD operations and API integrations.
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-#### 3. [Workflow Automation (Wärtsilä)](https://github.com/nguyentrung02/automation-tools)
+#### 3. Workflow Automation (Wärtsilä)
 - **Tech**: Power Automate, C#, UiPath
 - Automated report generation, reducing manual work by 30%.
 - ![PowerAutomate](https://img.shields.io/badge/Power_Automate-0066FF?logo=microsoft-power-automate&logoColor=white)
@@ -66,7 +66,6 @@ I’m a **Software Developer** passionate about building solutions that blend co
 ---
 
 ### 📊 GitHub Stats
-![Trung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyentrung02&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrung02&layout=compact&theme=radical)
 
@@ -77,6 +76,3 @@ I’m a **Software Developer** passionate about building solutions that blend co
 - 📂 **Projects**: [GitHub Repositories](https://github.com/nguyentrung02?tab=repositories)
 - 📧 **Email**: nductrung02@gmail.com
 
----
-
-⭐ **Fun Fact**: I once optimized a PyGame collision detection algorithm by 40%!  
