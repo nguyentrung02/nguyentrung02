@@ -34,7 +34,7 @@ I’m a **Software Developer** passionate about building solutions that blend co
 - Focused on data cleaning, feature engineering, and model optimization.
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-#### 2. [Full-Stack Web Service](https://github.com/ngoctran-thn/PopupPro)
+#### 2. [Full-Stack Web Service (Back-end role)](https://github.com/ngoctran-thn/PopupPro)
 - **Tech**: React, Node.js, PostgreSQL, Docker
 - User-authenticated app with CRUD operations and API integrations.
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
